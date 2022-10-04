@@ -1,6 +1,6 @@
 # Hi, I'm Den 👋
 
-### I'm a beginner Data Scientist
+### I'm a Data Scientist
 I got some experience in courses and 
 <code>[Kaggle.com](https://www.kaggle.com/abelden)</code>  
 I love everything about data and new technologies.
