@@ -10,6 +10,7 @@ I got some experience in
 | Job Position                 | Company            | Field                           | Work Period                |
 | ---------------------------- | ------------------ | ------------------------------- | -------------------------- |
 | Junior Data Scientist        | Medtech.moscow     | ML with Tabular Data, analitics | 01.10.2021 — until now     |
+| Managing Director            | Fitnessbar.ru      | Sales forcast, uplift modeling  | 01.07.2016 —  30.09.2021   |
 
 
 <h3><strong>Kaggle experience 🏆</strong></h3>
