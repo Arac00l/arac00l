@@ -1,6 +1,6 @@
 # Hi, I'm Den 👋
 
-### I'm a Data Scientist
+### I'm a Lead Data Analyst
 I love everything about data and new technologies.
 
 I got some experience in 
