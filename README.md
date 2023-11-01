@@ -11,7 +11,7 @@ I got some experience in
 | ---------------------------- | ------------------ | --------------------------------- | ------------------------- |
 | Lead Data Analyst            | Elsharm.net        | Data analytics, Prediction models | 17.01.2023 — until now    |
 | Data Scientist               | Medtech.moscow     | ML with Tabular Data, analitics   | 01.10.2021 — 16.01.2023   |
-| Managing Director            | Fitnessbar.ru      | Sales forcast, uplift modeling    | 01.07.2016 — 30.09.2021   |
+| Data Scientist               | Fitnessbar.ru      | Sales forcast, uplift modeling    | 01.07.2016 — 30.09.2021   |
 
 
 <h3><strong>Kaggle experience 🏆</strong></h3>
