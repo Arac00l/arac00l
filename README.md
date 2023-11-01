@@ -7,10 +7,11 @@ I got some experience in
 <code>[Kaggle.com](https://www.kaggle.com/abelden)</code>  
 
 ### Work experience 👔
-| Job Position                 | Company            | Field                           | Work Period                |
-| ---------------------------- | ------------------ | ------------------------------- | -------------------------- |
-| Junior Data Scientist        | Medtech.moscow     | ML with Tabular Data, analitics | 01.10.2021 — until now     |
-| Managing Director            | Fitnessbar.ru      | Sales forcast, uplift modeling  | 01.07.2016 —  30.09.2021   |
+| Job Position                 | Company            | Field                             | Work Period               |
+| ---------------------------- | ------------------ | --------------------------------- | ------------------------- |
+| Lead Data Analyst            | Elsharm.net        | Data analytics, Prediction models | 17.01.2023 — until now    |
+| Data Scientist               | Medtech.moscow     | ML with Tabular Data, analitics   | 01.10.2021 — 16.01.2023   |
+| Managing Director            | Fitnessbar.ru      | Sales forcast, uplift modeling    | 01.07.2016 — 30.09.2021   |
 
 
 <h3><strong>Kaggle experience 🏆</strong></h3>
@@ -27,7 +28,8 @@ I got some experience in
           LightGBM, CatBoost, XGBoost, PyTorch
 - DevOps:   Linux, Git, Docker
 - Big Data: Hive, Hadoop, Spark
-- Stack: Airflow, PostgreSQL, GitLab
+- Visualization: Superset, Tableau
+- Stack: Airflow, PostgreSQL, BigQuery, GitLab
 
 <h3><strong>Courses and Certifications 📜</strong></h3>
 
